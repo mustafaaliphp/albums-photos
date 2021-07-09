@@ -1,0 +1,5 @@
+./standalone.sh -Djboss.socket.binding.port-offset=100
+http://localhost:8180/auth/realms/appsdeveloperblog/account
+http://localhost:8083/callback
+Appsdeveloperblog
+Photo-app-code-flow-client
