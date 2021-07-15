@@ -1,3 +1,3 @@
 # Albums - Photos Microservices
 
-![Albums - Photos Microservices](https://user-images.githubusercontent.com/53540870/125079021-c75f0780-e088-11eb-94aa-bda4bc019a5d.PNG)
+![Albums-Photos](https://user-images.githubusercontent.com/53540870/125727429-44a0eee4-ce25-4d8e-8b13-4a17fd1ca7b7.PNG)
